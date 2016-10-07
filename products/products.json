@@ -3,7 +3,7 @@
 	"name": "T-Rex",
 	"color": "gray",
 	"quantity": 1,
-	"description": "A monstrous T-Rex that may or may not listen to your commands.",
+	"description": "A extremely monstrous T-Rex that may or may not listen to your commands.",
 	"usaDollarPrice": 5,
 	"imgsrc":"https://shechive.files.wordpress.com/2013/08/a-so-fluffy-10.jpg",
 	"isNew": true
